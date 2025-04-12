@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Singapore"
+title                    : "Graduate"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Su Mengqi"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Su-823.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Su-823/Su-823.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,18 +24,18 @@ author:
   avatar           : "profile.png"
   name             : "Mengqi Su"
   pronouns         : # example: "she/her"  
-  bio              : "Mengqi Su, the fourth year student in CUHK(SZ)"
+  bio              : "Mengqi Su, graduate student in NUS"
   location         : "China"
-  employer         : "CUHK(SZ)"
-  uri              : # URL
+  employer         : "NUS"
+  uri              : https://github.cm/Su-823
   email            : "120090302@link.cuhk.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "http://orcid.org/0009000157032164"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
