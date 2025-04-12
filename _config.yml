@@ -12,7 +12,7 @@ title                    : "Graduate"
 title_separator          : "-"
 name                     : &name "Su Mengqi"
 description              : &description "personal description"
-url                      : https://Su-823.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://su-823.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Su-823/Su-823.github.io"
 
