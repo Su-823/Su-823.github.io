@@ -11,54 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in National University of Singapore, 2024
+* B.S. in Chinese University of Hongkong,(Shenzhen) , 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023: Shenzhen Research Institute of Big Data
+  * Research Intern
+  * Duties includes:
+    1.Developed and optimized a multimodal model for esophageal cancer CT image segmentation and survival prediction, incorporating clinical text information. 
+    2.Utilized dynamic brain network technology to analyze IXT disease medical imaging data, employing MATLAB and SPM. Conducted statistical analysis and                visualization. The paper of this project published in ISMRM (Aberrant dynamic functional connectivity in childhood basic intermittent exotropia: an                exploration in the pathogenesis of the visual center pathway)
+    3.Developed an algorithm for medical image signal-to-noise ratio using wavelet transformation and applied for a patent.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  * Supervisor: Shi Qinglei
